@@ -12,4 +12,4 @@ date: 2019-12-11 20:04:53
 在公司内部做的一次技术分享的ppt
 ----
 
-![](http://bugzhang.com/wp-content/uploads/2019/11/image.png)
+![](http://img.bugzhang.com/egg.js%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB.jpg)
