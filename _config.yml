@@ -94,7 +94,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -102,3 +102,8 @@ deploy:
   type: git
   repo: https://github.com/rhythm1995/myblog
   branch: master
+
+subnav:
+  关于我: "http://bugzhang.com/2015/%E5%85%B3%E4%BA%8E%E6%88%91/"
+  github: "https://github.com/rhythm1995"
+  mail: "mailto:litten225@qq.com"
